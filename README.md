@@ -31,9 +31,9 @@
 
 ### <i>About</i>
 
-- 👋 Hi, I’m Anand Kumar Gupta
+- 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C,C++ and JAVA Programming
+- 🌱 I’m learn C,C++ and JAVA ,HTML, CSS,JAVASCRIPT, REACT, GIT, GITHUB
 - 💞️Improving my programming skills with the help of graduation in MCA 
 	<br/>
 	<br/>
@@ -62,7 +62,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/kumaranand7/github-readme-stats"><img alt="Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kumaranand7&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/singhabhishek98"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhabhishek98&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	<br/>
@@ -74,6 +74,6 @@
 
 
 -----
-Credits: [Anand Kumar Gupta](https://github.com/kumaranand7)
+Credits: [Anand Kumar Gupta](https://github.com/singhabhishek98)
 
-Last Edited on: 25/04/2022
+Last Edited on: 08/10/2024
