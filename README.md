@@ -74,6 +74,6 @@
 
 
 -----
-Credits: [Anand Kumar Gupta](https://github.com/singhabhishek98)
+Credits: [Abhishek Singh](https://github.com/singhabhishek98)
 
 Last Edited on: 08/10/2024
