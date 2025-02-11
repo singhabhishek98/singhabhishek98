@@ -33,7 +33,7 @@
 
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Coding
-- 🌱 I’m learn C,C++ and JAVA ,HTML, CSS,JAVASCRIPT, REACT, GIT, GITHUB
+- 🌱 I’m learn C,C++ and JAVA ,HTML, CSS,JAVASCRIPT, REACT, GIT, GITHUB, MERN
 - 💞️Improving my programming skills with the help of graduation in MCA 
 	<br/>
 	<br/>
@@ -76,4 +76,4 @@
 -----
 Credits: [Abhishek Singh](https://github.com/singhabhishek98)
 
-Last Edited on: 08/10/2024
+Last Edited on: 11/02/2025
