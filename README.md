@@ -37,6 +37,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhabhishek98&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 -----
 Credits: [Abhishek Singh](https://github.com/singhabhishek98)
 
