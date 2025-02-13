@@ -38,9 +38,13 @@
 
 
 
- <a href="https://github.com/singhabhishek98">
- <img src="https://github-readme-streak-stats-indol-ten.vercel.app?user=singhabhishek98&theme=tokyonight&short_numbers=true&border=FFFFFF" alt="GitHub Streak" /></a>
+<a href="https://github.com/singhabhishek98">
+                <img src="https://singhabhishek98.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&short_numbers=true" alt="" />
+            </a>
 <br></br>
+
+
+
 
 
 
