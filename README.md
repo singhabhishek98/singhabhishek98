@@ -37,10 +37,10 @@
 
 
 
-
-<a href="https://github.com/singhabhishek98">
-<img src="https://singhabhishek98.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&short_numbers=true" alt="" />
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=true" alt="GitHub Streak Stats" />
 </a>
+
 <br></br>
 
 
