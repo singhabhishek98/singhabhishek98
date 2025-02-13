@@ -39,8 +39,8 @@
 
 
 <a href="https://github.com/singhabhishek98">
-                <img src="https://singhabhishek98.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&short_numbers=true" alt="" />
-            </a>
+<img src="https://singhabhishek98.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&short_numbers=true" alt="" />
+</a>
 <br></br>
 
 
