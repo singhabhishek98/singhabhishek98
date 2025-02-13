@@ -32,13 +32,20 @@
 	<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhabhishek98&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
   <br/>
-	
- <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak Stats" />
-    </a>
-	
+
+
+
+
+
+
+ <a href="https://github.com/singhabhishek98">
+ <img src="https://github-readme-streak-stats-indol-ten.vercel.app?user=singhabhishek98&theme=tokyonight&short_numbers=true&border=FFFFFF" alt="GitHub Streak" /></a>
 <br></br>
+
+
+
+
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
