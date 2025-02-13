@@ -36,10 +36,11 @@
 
 
 
-
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=singhabhishek98&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=true" alt="GitHub Streak Stats" />
-</a>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=true" alt="GitHub Streak Stats" />
+    </a>
+</p>
 
 <br></br>
 
