@@ -37,10 +37,10 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=true" alt="GitHub Streak Stats" />
+    <a href="https://github.com/singhabhishek98"><img src="https://img.shields.io/badge/Daily%20Streak-Loading...-blue?style=for-the-badge" alt="GitHub Streak Stats" />
     </a>
 </p>
+
 
 <br></br>
 
