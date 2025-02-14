@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  ∵Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
 </h1>
 	
 <div align="center">
@@ -32,25 +32,19 @@
 	<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhabhishek98&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
   <br/>
+</p>
 
-
-
+### <i>🔥 GitHub Streak</i>
 
 <p align="center">
-    <a href="https://github.com/singhabhishek98"><img src="https://img.shields.io/badge/Daily%20Streak-Loading...-blue?style=for-the-badge" alt="GitHub Streak Stats" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight" alt="GitHub Streak"/>
     </a>
 </p>
 
+<br/>
 
-<br></br>
-
-
-
-
-
-
-
-
+<p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
