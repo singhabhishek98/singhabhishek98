@@ -37,7 +37,7 @@
 ### <i>🔥 GitHub Streak</i>
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
+    <a href=>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight" alt="GitHub Streak"/>
     </a>
 </p>
