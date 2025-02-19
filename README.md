@@ -1,5 +1,5 @@
 <h1 align="center">
-  ∵Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
 </h1>
 	
 <div align="center">
