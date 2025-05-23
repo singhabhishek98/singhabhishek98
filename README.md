@@ -43,11 +43,6 @@
 </p>
 
 <br/>
-
-<p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
 -----
 
 <p align="right"><b>Made with ❤️ by <a href="https://github.com/singhabhishek98">Abhishek Singh</a></b></p>
