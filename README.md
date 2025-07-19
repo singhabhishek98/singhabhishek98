@@ -1,48 +1,51 @@
 <h1 align="center">
-  Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 👋
 </h1>
-	
+
 <div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50%" />
-</div> 
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Full Stack Dev GIF" width="60%" />
+</div>
 
 <br/>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=singhabhishek98&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" /> 
-</p>
-
-### <i>About</i>
-
-- 👋 Hi, I’m Abhishek Singh  
-- 👀 I’m interested in Coding  
-- 🌱 I’m learning C, C++, JAVA, HTML, CSS, JavaScript, React, Git, GitHub, and MERN Stack  
-- 💞️ Continuously growing as a developer after completing my MCA
-   <br/>
- 
-### <i>📊 Github Stats</i>
-
-<br/>
-<p align="center">
-    <a href="https://github.com/singhabhishek98">
-      <img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhabhishek98&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-<br/>
-  &nbsp;
-	<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhabhishek98&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
-  <br/>
-</p>
-
-### <i>🔥 GitHub Streak</i>
 
 <p align="center">
-    <a href=>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight" alt="GitHub Streak"/>
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=singhabhishek98&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
 
-<br/>
-<p align="right"><b>Made with ❤️ by <a href="https://github.com/singhabhishek98">Abhishek Singh</a></b></p>
+---
 
-Last Edited on: 23/05/2025
+## 👨‍💻 About Me
+
+- 👋 Hi, I’m **Abhishek Singh**
+- 🎓 MCA Graduate | Passionate Full Stack Developer
+- 💡 Always curious about new technologies & frameworks
+- 💻 I’m currently working with:  
+  `C`, `C++`, `Java`, `HTML`, `CSS`, `JavaScript`, `React`, `Git`, `GitHub`, `MERN Stack`
+- 🌱 Constantly learning & growing as a developer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhabhishek98&show_icons=true&count_private=true&theme=algolia" alt="Abhishek's GitHub Stats" height="192px"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhabhishek98&langs_count=10&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=singhabhishek98&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💬 Let's connect and grow together!</b><br/>
+  <a href="https://github.com/singhabhishek98">Made with ❤️ by Abhishek Singh</a>
+</p>
+
+<p align="right"><i>Last updated on: 19/07/2025</i></p>
