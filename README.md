@@ -45,6 +45,13 @@
 
 <p align="center">
   <b>💬 Let's connect and grow together!</b><br/>
+
+  <p align="center">
+  🔗 <strong>Check out my portfolio:</strong><br/>
+  <a href="https://codebyabhi.netliy.app" target="_blank">
+    🌐 https://singhabhishek98.github.io/
+  </a>
+</p>
   <a href="https://github.com/singhabhishek98">Made with ❤️ by Abhishek Singh</a>
 </p>
 
