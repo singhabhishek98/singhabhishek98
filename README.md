@@ -18,6 +18,8 @@
 
 - 👋 Hi, I’m **Abhishek Singh**
 - 🎓 MCA Graduate | Passionate Full Stack Developer
+- 📺 Founder Of TechWala 
+- 🌐 Codebyabhi 
 - 💡 Always curious about new technologies & frameworks
 - 💻 I’m currently working with:  
   `C`, `C++`, `Java`, `HTML`, `CSS`, `JavaScript`, `React`, `Git`, `GitHub`, `MERN Stack`
@@ -52,7 +54,7 @@
     🌐 https://singhabhishek98.github.io/
   </a>
 </p>
-  <a href="https://github.com/singhabhishek98">Made with ❤️ by Abhishek Singh</a>
+  <a href="https://codebyabhi.netlify.app/">Made with ❤️ by Abhishek Singh</a>
 </p>
 
 <p align="right"><i>Last updated on: 19/07/2025</i></p>
