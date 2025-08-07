@@ -51,7 +51,7 @@
   <p align="center">
   🔗 <strong>Check out my portfolio:</strong><br/>
   <a href="https://codebyabhi.netliy.app" target="_blank">
-    🌐 https://singhabhishek98.github.io/
+    🌐 https:https://codebyabhi.netlify.app/
   </a>
 </p>
   <a href="https://codebyabhi.netlify.app/">Made with ❤️ by Abhishek Singh</a>
