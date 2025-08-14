@@ -54,7 +54,7 @@
     🌐 https:https://codebyabhi.netlify.app/
   </a>
 </p>
-  <a href="https://codebyabhi.netlify.app/">Made with ❤️ by Abhishek Singh</a>
+  <a href="https://codebyabhi.netlify.app/">Made with ❤️ by CodeByAbhi</a>
 </p>
 
 <p align="right"><i>Last updated on: 19/07/2025</i></p>
