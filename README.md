@@ -57,4 +57,4 @@
   <a href="https://codebyabhi.netlify.app/">Made with ❤️ by Abhishek Singh</a>
 </p>
 
-<p align="right"><i>Last updated on: 19/07/2025</i></p>
+<p align="right"><i>Last updated on: 14/08/2025</i></p>
